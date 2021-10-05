@@ -1,0 +1,3 @@
+notes:
+- https://blog.geekhunter.com.br/o-que-e-deploy/
+Informações de como fazer o deploy;
