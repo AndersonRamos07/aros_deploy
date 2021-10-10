@@ -1,15 +1,17 @@
 {
-  "name": "NP_AROS",
+  "name": "@aros-deploy",
   "version": "1.0.0",
-  "description": "",
+  "description": "Teste de Deploy",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Anderson Ramos - AROPhiS: arophis07@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
   }
 }
