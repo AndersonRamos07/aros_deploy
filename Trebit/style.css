@@ -1,0 +1,20 @@
+h1{
+    color: darkred;
+}
+header{
+    border: 2px solid green;
+}
+main{
+    border: 2px solid red;
+}
+footer{
+    border: 2px solid blue;
+}
+.btns, .scores{
+    display: flex;
+    justify-content: space-between;
+}
+/*.scores{
+    border: 2px solid gray;
+}
+*/
